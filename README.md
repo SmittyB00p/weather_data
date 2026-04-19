@@ -2,7 +2,7 @@
 
 From 1988 until the present, my father has kept records of precipitation and high/low temperatures of our hometown of Oskaloosa, Iowa. The data has been gathered from multiple new networks in out area and also from rain gauge measurements.
 
-## Things to look at
+### Things to look at
 
 - rolling averages
     * we will look at decadal and yearly rolling averages.
@@ -12,3 +12,19 @@ From 1988 until the present, my father has kept records of precipitation and hig
 
 - examples of parametric modeling
     * taking a portion of data from A year, we will use parametric modeling to see how the more degrees of freedom you add the higher the variance, but also the higher the bias.
+
+
+## Rolling Averages
+
+Rolling Yearly Average:
+[images/]
+
+Rolling Decadal Average:
+[images/]
+
+
+## Warming vs Colling Months
+
+
+
+## Parametric Modeling
