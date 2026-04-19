@@ -17,10 +17,10 @@ From 1988 until the present, my father has kept records of precipitation and hig
 ## Rolling Averages
 
 Rolling Yearly Average:
-[images/]
+![yearly_averages](images/)
 
 Rolling Decadal Average:
-[images/]
+![decadal_averages](images/)
 
 
 ## Warming vs Colling Months
